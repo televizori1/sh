@@ -1,190 +1,88 @@
 #EXTM3U
-#EXTINF:0 tvg-id="ext" group-title="Undefined",KLAN 4K
-http://185.71.64.167:80/AO0RKgAr3S/XEJ7yJaA2a/82183?checkedby:hlscat.com
-#EXTINF:0 tvg-id="KlanTVHD.al" group-title="Undefined",KLAN TV HD
-http://185.71.64.167:80/AO0RKgAr3S/XEJ7yJaA2a/82184?checkedby:hlscat.com
-#EXTINF:0 tvg-id="ext" group-title="Undefined",KLAN PLUS 4K
-http://185.71.64.167:80/AO0RKgAr3S/XEJ7yJaA2a/82182?checkedby:hlscat.com
-#EXTINF:0 tvg-id="KlanPlusHD.al" group-title="Undefined",KLAN PLUS HD
-http://rv.therevenge.co:80/565656/565656/82181?checkedby:hlscat.com
-#EXTINF:0 tvg-id="KlanKosova.al" group-title="Undefined",KLAN KOSOVA HD
-http://rv.therevenge.co:80/live/242424/242424/82178.m3u8?checkedby:hlscat.com
-#EXTINF:0 tvg-id="ext" group-title="Undefined",KLAN MACEDONIA
-http://rv.therevenge.co:80/live/242424/242424/82177.m3u8?checkedby:hlscat.com
-#EXTINF:0 tvg-id="ext" group-title="Undefined",TOP CHANNEL 4K
-http://185.71.64.167:80/AO0RKgAr3S/XEJ7yJaA2a/82185?checkedby:hlscat.com
-#EXTINF:0 tvg-id="TopChannelHD.al" group-title="Undefined",TOP CHANNEL HD
-http://185.71.64.167:80/AO0RKgAr3S/XEJ7yJaA2a/82186?checkedby:hlscat.com
-#EXTINF:0 tvg-id="TopNews.al" group-title="Undefined",TOP NEWS
-http://rv.therevenge.co:80/565656/565656/82126?checkedby:hlscat.com
-#EXTINF:0 tvg-id="ext" group-title="Undefined",MY MUSIC HD
-http://rv.therevenge.co:80/live/242424/242424/81969.m3u8?checkedby:hlscat.com
-#EXTINF:0 tvg-id="ABCNews.al" group-title="Undefined",ABC NEWS
-http://rv.therevenge.co:80/565656/565656/82125?checkedby:hlscat.com
-#EXTINF:0 tvg-id="News24.al" group-title="Undefined",NEWS 24
-http://rv.therevenge.co:80/565656/565656/82123?checkedby:hlscat.com
-#EXTINF:0 tvg-id="OraNews.al" group-title="Undefined",ORA NEWS HD
-http://rv.therevenge.co:80/565656/565656/82124?checkedby:hlscat.com
-#EXTINF:0 tvg-id="ext" group-title="Undefined",REPORT TV
-http://rv.therevenge.co:80/live/11223344/11223344/82121.m3u8?checkedby:hlscat.com
-#EXTINF:0 tvg-id="ext" group-title="Undefined",REPORT TV
-http://rv.therevenge.co:80/565656/565656/82121?checkedby:hlscat.com
-#EXTINF:0 tvg-id="OraNews.al" group-title="Undefined",ORA NEWS HD
-http://rv.therevenge.co:80/live/11223344/11223344/82124.m3u8?checkedby:hlscat.com
-#EXTINF:0 tvg-id="ext" group-title="Undefined",VIZION PLUS 4K
-http://rv.therevenge.co:80/565656/565656/82179?checkedby:hlscat.com
-#EXTINF:0 tvg-id="ext" group-title="Undefined",SYRI TV HD
-http://rv.therevenge.co:80/565656/565656/82115?checkedby:hlscat.com
-#EXTINF:0 tvg-id="FaxNews.al" group-title="Undefined",FAX NEWS
-http://185.71.64.167:80/307245103371/307245103371/82122?checkedby:hlscat.com
-#EXTINF:0 tvg-id="ext" group-title="Undefined",SCAN TV
-http://rv.therevenge.co:80/565656/565656/82116?checkedby:hlscat.com
-#EXTINF:0 tvg-id="RTSH.al" group-title="Undefined",RTSH
-http://edge01eu.ekranet.com:80/rtshhd_low/index.m3u8?checkedby:hlscat.com
-#EXTINF:0 tvg-id="FOX.nl" group-title="Undefined",FOX CHANNEL
-http://rv.therevenge.co:80/565656/565656/82048?checkedby:hlscat.com
-#EXTINF:0 tvg-id="RTK.al" group-title="Undefined",RTK 1 HD
-http://185.71.64.167:80/307245103371/307245103371/82161?checkedby:hlscat.com
-#EXTINF:0 tvg-id="ext" group-title="Undefined",Film Gold 2
-http://pascaltv.site:8080/magicoiptv/1ed63025640d/16459?checkedby:hlscat.com
-#EXTINF:0 tvg-id="ext" group-title="Undefined",Film Aksion 4K+
-http://exchange.jinbox.nl:1339/sbtvip/jBRR5bmk/339?checkedby:hlscat.com
-#EXTINF:0 tvg-id="FilmAksion.al" group-title="Undefined",FILM AKSION
-http://185.71.64.167:80/307245103371/307245103371/82083?checkedby:hlscat.com
-#EXTINF:0 tvg-id="FilmAutor.al" group-title="Undefined",FILM AUTOR
-http://185.71.64.167:80/307245103371/307245103371/82081?checkedby:hlscat.com
-#EXTINF:0 tvg-id="FilmDrame.al" group-title="Undefined",FILM DRAMA
-http://rv.imax.re:80/5124037472/1572081885/82080?checkedby:hlscat.com
-#EXTINF:0 tvg-id="FilmDrame.al" group-title="Undefined",FILM DRAMA
-http://rv.therevenge.co:80/live/242424/242424/82080.m3u8?checkedby:hlscat.com
-#EXTINF:0 tvg-id="FilmDyHD.al" group-title="Undefined",FILM DY FHD
-http://pascaltv.site:8080/magicoiptv/1ed63025640d/1331?checkedby:hlscat.com
-#EXTINF:0 tvg-id="FilmDyHD.al" group-title="Undefined",FILM DY HD
-http://rv.therevenge.co:80/live/242424/242424/82084.m3u8?checkedby:hlscat.com
-#EXTINF:0 tvg-id="FilmNjeHD.al" group-title="Undefined",FILM NJE FHD
-http://pascaltv.site:8080/magicoiptv/1ed63025640d/2559?checkedby:hlscat.com
-#EXTINF:0 tvg-id="FilmNjeHD.al" group-title="Undefined",FILM NJE HD
-http://rv.therevenge.co:80/live/11223344/11223344/82085.m3u8?checkedby:hlscat.com
-#EXTINF:0 tvg-id="ext" group-title="Undefined",FILM FAMILY HD
-http://185.71.64.167:80/307245103371/307245103371/82077?checkedby:hlscat.com
-#EXTINF:0 tvg-id="FilmHits.al" group-title="Undefined",FILM HITS
-http://rv.therevenge.co:80/live/242424/242424/82082.m3u8?checkedby:hlscat.com
-#EXTINF:0 tvg-id="ext" group-title="Undefined",FILM HITS FHD
-http://pascaltv.site:8080/magicoiptv/1ed63025640d/1330?checkedby:hlscat.com
-#EXTINF:0 tvg-id="FilmKomedi.al" group-title="Undefined",FILM KOMEDI
-http://185.71.64.167:80/307245103371/307245103371/82079?checkedby:hlscat.com
-#EXTINF:0 tvg-id="ext" group-title="Undefined",FILM STINET
-http://185.71.64.167:80/307245103371/307245103371/82076?checkedby:hlscat.com
-#EXTINF:0 tvg-id="ext" group-title="Undefined",FILM STINËT HD
-http://pascaltv.site:8080/magicoiptv/1ed63025640d/4050?checkedby:hlscat.com
-#EXTINF:0 tvg-id="ext" group-title="Undefined",FILM T HD
-http://rv.imax.re:80/5124037472/1572081885/82075?checkedby:hlscat.com
-#EXTINF:0 tvg-id="FilmThriller.al" group-title="Undefined",FILM THRILLER
-http://rv.imax.re:80/5124037472/1572081885/82078?checkedby:hlscat.com
-#EXTINF:0 tvg-id="film-box-arthouse" group-title="Undefined",FILMBOX ARTHOUSE
-http://rv.imax.re:80/5124037472/1572081885/82005?checkedby:hlscat.com
-#EXTINF:0 tvg-id="FilmboxExtra.pl" group-title="Undefined",FILMBOX EXTRA
-http://rv.therevenge.co:80/565656/565656/82004?checkedby:hlscat.com
-#EXTINF:0 tvg-id="FilmboxPlus.cz" group-title="Undefined",FILMBOX PLUS
-http://rv.imax.re:80/5124037472/1572081885/82003?checkedby:hlscat.com
-#EXTINF:0 tvg-id="FilmboxPremium.cz" group-title="Undefined",FILMBOX PREMIUM
-http://rv.imax.re:80/5124037472/1572081885/82006?checkedby:hlscat.com
-#EXTINF:0 tvg-id="ext" group-title="Undefined",FIRST ACTION HD
-http://rv.therevenge.co:80/live/242424/242424/81997.m3u8?checkedby:hlscat.com
-#EXTINF:0 tvg-id="ext" group-title="Undefined",FIRST COMEDY HD
-http://rv.imax.re:80/5124037472/1572081885/81996?checkedby:hlscat.com
-#EXTINF:0 tvg-id="ext" group-title="Undefined",FIRST DRAME HD
-http://rv.therevenge.co:80/565656/565656/81995?checkedby:hlscat.com
-#EXTINF:0 tvg-id="ext" group-title="Undefined",FIRST FAMILY HD
-http://rv.therevenge.co:80/565656/565656/81994?checkedby:hlscat.com
-#EXTINF:0 tvg-id="ext" group-title="Undefined",FIRST THRILLER HD
-http://rv.therevenge.co:80/565656/565656/81993?checkedby:hlscat.com
-#EXTINF:0 tvg-id="ext" group-title="Undefined",Q CINEMA HD
-http://rv.therevenge.co:80/565656/565656/82042?checkedby:hlscat.com
-#EXTINF:0 tvg-id="ext" group-title="Undefined",Q DRAMA HD
-http://185.71.64.167:80/307245103371/307245103371/82036?checkedby:hlscat.com
-#EXTINF:0 tvg-id="ext" group-title="Undefined",Q FAMILY HD
-http://rv.therevenge.co:80/live/11223344/11223344/82041.m3u8?checkedby:hlscat.com
-#EXTINF:0 tvg-id="ext" group-title="Undefined",Q FANTASY HD
-http://rv.therevenge.co:80/565656/565656/82039?checkedby:hlscat.com
-#EXTINF:0 tvg-id="ext" group-title="Undefined",Q FILM HD
-http://185.71.64.167:80/307245103371/307245103371/82040?checkedby:hlscat.com
-#EXTINF:0 tvg-id="ext" group-title="Undefined",X ACTION HD
-http://185.71.64.167:80/AO0RKgAr3S/XEJ7yJaA2a/82018?checkedby:hlscat.com
-#EXTINF:0 tvg-id="ext" group-title="Undefined",X CIFTELI HD
-http://rv.therevenge.co:80/565656/565656/81964?checkedby:hlscat.com
-#EXTINF:0 tvg-id="ext" group-title="Undefined",X COMEDY HD
-http://rv.therevenge.co:80/565656/565656/82017?checkedby:hlscat.com
-#EXTINF:0 tvg-id="ext" group-title="Undefined",X DARK HD
-http://185.71.64.167:80/AO0RKgAr3S/XEJ7yJaA2a/82012?checkedby:hlscat.com
-#EXTINF:0 tvg-id="ext" group-title="Undefined",X DRAMA HD
-http://rv.therevenge.co:80/565656/565656/82015?checkedby:hlscat.com
-#EXTINF:0 tvg-id="ext" group-title="Undefined",X FAMILY HD
-http://rv.therevenge.co:80/565656/565656/82016?checkedby:hlscat.com
-#EXTINF:0 tvg-id="ext" group-title="Undefined",X HISTORI HD
-http://185.71.64.167:80/AO0RKgAr3S/XEJ7yJaA2a/81985?checkedby:hlscat.com
-#EXTINF:0 tvg-id="ext" group-title="Undefined",X PREMIUM 1 HD
-http://rv.therevenge.co:80/live/242424/242424/82022.m3u8?checkedby:hlscat.com
-#EXTINF:0 tvg-id="ext" group-title="Undefined",X PREMIUM 2 HD
-http://rv.therevenge.co:80/565656/565656/82021?checkedby:hlscat.com
-#EXTINF:0 tvg-id="ext" group-title="Undefined",X PREMIUM 3 HD
-http://rv.therevenge.co:80/565656/565656/82020?checkedby:hlscat.com
-#EXTINF:0 tvg-id="ext" group-title="Undefined",X PREMIUM 4 HD
-http://rv.therevenge.co:80/565656/565656/82019?checkedby:hlscat.com
-#EXTINF:0 tvg-id="3Plus.al" group-title="Undefined",TRING 3+
-http://rv.therevenge.co:80/live/242424/242424/82053.m3u8?checkedby:hlscat.com
-#EXTINF:0 tvg-id="ext" group-title="Undefined",TRING ACTION
-http://rv.therevenge.co:80/565656/565656/82058?checkedby:hlscat.com
-#EXTINF:0 tvg-id="TringComedy.al" group-title="Undefined",TRING COMEDY
-http://rv.therevenge.co:80/565656/565656/82055?checkedby:hlscat.com
-#EXTINF:0 tvg-id="TringFantazi.al" group-title="Undefined",TRING FANTASY
-http://rv.therevenge.co:80/565656/565656/82057?checkedby:hlscat.com
-#EXTINF:0 tvg-id="T-Hist.al" group-title="Undefined",TRING HISTORY
-http://rv.therevenge.co:80/565656/565656/81988?checkedby:hlscat.com
-#EXTINF:0 tvg-id="ext" group-title="Undefined",TRING JOLLY
-http://rv.therevenge.co:80/565656/565656/82050?checkedby:hlscat.com
-#EXTINF:0 tvg-id="ext" group-title="Undefined",TRING KIDS
-http://rv.therevenge.co:80/565656/565656/82108?checkedby:hlscat.com
-#EXTINF:0 tvg-id="TringLife.al" group-title="Undefined",TRING LIFE
-http://rv.therevenge.co:80/565656/565656/82056?checkedby:hlscat.com
-#EXTINF:0 tvg-id="TringPlanet.al" group-title="Undefined",TRING PLANET
-http://rv.therevenge.co:80/565656/565656/81987?checkedby:hlscat.com
-#EXTINF:0 tvg-id="TRINGSHQIPI.al" group-title="Undefined",TRING SHQIP
-http://rv.therevenge.co:80/565656/565656/82051?checkedby:hlscat.com
-#EXTINF:0 tvg-id="Smile.al" group-title="Undefined",TRING SMILE
-http://rv.therevenge.co:80/565656/565656/82052?checkedby:hlscat.com
+group,Undefined
+ext,A1 REPORT,http://mags.vip:2086/live/miriam/miriam123/93111.ts?checkedby:hlscat.com
+ext,Art Kino 2 HD,http://cobra2016.dyndns.tv:1947/enjoyimcob_SkYpE/8LftLI6H71/4367?checkedby:hlscat.com
+ext,Art Kino 3 HD,http://cobra2016.dyndns.tv:1947/enjoyimcob_SkYpE/8LftLI6H71/4368?checkedby:hlscat.com
+BangBang.al,BANG BANG,http://mags.vip:2086/live/miriam/miriam123/93119.ts?checkedby:hlscat.com
+ext,BBF musik,http://cobra2016.dyndns.tv:1947/enjoyimcob_SkYpE/8LftLI6H71/249?checkedby:hlscat.com
+CufoTV.al,Cufo TV,http://ankastream.com:8080/NIKON-TELE/dG8OU56amncP/1311?checkedby:hlscat.com
+DiscoveryChannel.al,DISCOVERY CHANNEL,http://mags.vip:2086/live/miriam/miriam123/93124.ts?checkedby:hlscat.com
+ext,Digi Gold 1 HD,http://titanlivetv.com:8080/AdagioRestream12a/7AgZxDId5S/36742?checkedby:hlscat.com
+ext,Digi Gold 1 HDpar,http://globaltv.life:8880/sfast@trial/oIb3fTcCuJ/68721?checkedby:hlscat.com
+ext,Digi Gold 2 HD,http://titanlivetv.com:8080/AdagioRestream12a/7AgZxDId5S/36743?checkedby:hlscat.com
+ext,Digi Gold 3,http://titanlivetv.com:8080/AdagioRestream12a/7AgZxDId5S/36745?checkedby:hlscat.com
+ext,Digi Gold 4,http://titanlivetv.com:8080/AdagioRestream12a/7AgZxDId5S/36746?checkedby:hlscat.com
+EXPShkence.al,EXP Shkence,http://cobra2016.dyndns.tv:1947/enjoyimcob_SkYpE/8LftLI6H71/223?checkedby:hlscat.com
+ext,EXP History,http://cobra2016.dyndns.tv:1947/enjoyimcob_SkYpE/8LftLI6H71/222?checkedby:hlscat.com
+EXPNatyra.al,EXP Natyra,http://cobra2016.dyndns.tv:1947/enjoyimcob_SkYpE/8LftLI6H71/221?checkedby:hlscat.com
+FilmAksion.al,FILM AKSION,http://mags.vip:2086/live/miriam/miriam123/98671.ts?checkedby:hlscat.com
+FilmDrame.al,FILM DRAMË,http://mags.vip:2086/live/miriam/miriam123/93136.ts?checkedby:hlscat.com
+FilmHits.al,FILM HITS,http://mags.vip:2086/live/miriam/miriam123/93138.ts?checkedby:hlscat.com
+FoxCrime.al,FOX CRIME,http://mags.vip:2086/live/miriam/miriam123/93143.ts?checkedby:hlscat.com
+FoxLife.al,FOX LIFE,http://mags.vip:2086/live/miriam/miriam123/98670.ts?checkedby:hlscat.com
+PlusHD.al,Family HD,http://cobra2016.dyndns.tv:1947/enjoyimcob_SkYpE/8LftLI6H71/210?checkedby:hlscat.com
+FilmAutor.al,Film Autor,http://alontv.info:8000/live/ontvtest/172722/34.ts?checkedby:hlscat.com
+FilmDyHD.al,Film Dy,http://alontv.info:8000/live/ontvtest/172722/41.ts?checkedby:hlscat.com
+FilmKomedi.al,Film Komedi,http://cobra2016.dyndns.tv:1947/enjoyimcob_SkYpE/8LftLI6H71/224?checkedby:hlscat.com
+FilmNjeHD.al,Film Nje HD,http://cobra2016.dyndns.tv:1947/enjoyimcob_SkYpE/8LftLI6H71/22?checkedby:hlscat.com
+FilmThriller.al,Film Thriller,http://cobra2016.dyndns.tv:1947/enjoyimcob_SkYpE/8LftLI6H71/478?checkedby:hlscat.com
+ext,In TV,http://alontv.info:8000/live/ontvtest/172722/252.ts?checkedby:hlscat.com
+JollyHD.al,Jolly HD,http://alontv.info:8000/live/ontvtest/172722/55.ts?checkedby:hlscat.com
+JuniorTV.al,Junior TV,http://alontv.info:8000/live/ontvtest/172722/44.ts?checkedby:hlscat.com
+KlanKosova.al,KLAN KOSOVA,http://mags.vip:2086/live/miriam/miriam123/93154.ts?checkedby:hlscat.com
+ext,KLAN PLUS,http://mags.vip:2086/live/miriam/miriam123/93155.ts?checkedby:hlscat.com
+KlanTV.al,KLAN TV,http://mags.vip:2086/live/miriam/miriam123/93153.ts?checkedby:hlscat.com
+KTV.al,KTV,http://alontv.info:8000/live/ontvtest/172722/2.ts?checkedby:hlscat.com
+ext,Kino Premiere 1 HD,http://cobra2016.dyndns.tv:1947/enjoyimcob_SkYpE/8LftLI6H71/227?checkedby:hlscat.com
+TopChannel.al,TOP CHANNEL,http://mags.vip:2086/live/miriam/miriam123/93185.ts?checkedby:hlscat.com
+TopChannel.al,Top Channel,http://titanlivetv.com:8080/AdagioRestream12a/7AgZxDId5S/36630?checkedby:hlscat.com
+TopNews.al,TOP NEWS,http://mags.vip:2086/live/miriam/miriam123/93213.ts?checkedby:hlscat.com
+3Plus.al,Tring 3 Plus,http://alontv.info:8000/live/ontvtest/172722/56.ts?checkedby:hlscat.com
+ext,Tring Action,http://cobra2016.dyndns.tv:1947/enjoyimcob_SkYpE/8LftLI6H71/137?checkedby:hlscat.com
+TringComedy.al,Tring Comedy,http://alontv.info:8000/live/ontvtest/172722/47.ts?checkedby:hlscat.com
+TringFantazi.al,Tring Fantasy,http://alontv.info:8000/live/ontvtest/172722/46.ts?checkedby:hlscat.com
+T-Hist.al,Tring History,http://ankastream.com:8080/NIKON-TELE/dG8OU56amncP/1305?checkedby:hlscat.com
+TringPlanet.al,Tring Planet,http://ankastream.com:8080/NIKON-TELE/dG8OU56amncP/1306?checkedby:hlscat.com
+TRINGSHQIPI.al,Tring Shqip,http://alontv.info:8000/live/ontvtest/172722/50.ts?checkedby:hlscat.com
+TringLife.al,Tring Life,http://alontv.info:8000/live/ontvtest/172722/48.ts?checkedby:hlscat.com
+Smile.al,Tring Smile,http://ankastream.com:8080/NIKON-TELE/dG8OU56amncP/1273?checkedby:hlscat.com
+ext,X Action,http://titanlivetv.com:8080/AdagioRestream12a/7AgZxDId5S/36784?checkedby:hlscat.com
+ext,X Comedi,http://titanlivetv.com:8080/AdagioRestream12a/7AgZxDId5S/36787?checkedby:hlscat.com
+ext,X Dark HD,http://titanlivetv.com:8080/AdagioRestream12a/7AgZxDId5S/36783?checkedby:hlscat.com
+ext,X Drame,http://titanlivetv.com:8080/AdagioRestream12a/7AgZxDId5S/36785?checkedby:hlscat.com
+ext,X Humor,http://titanlivetv.com:8080/AdagioRestream12a/7AgZxDId5S/36782?checkedby:hlscat.com
+ext,X Premium 1 HD,http://titanlivetv.com:8080/AdagioRestream12a/7AgZxDId5S/36776?checkedby:hlscat.com
+ext,X Premium 2 HD,http://titanlivetv.com:8080/AdagioRestream12a/7AgZxDId5S/36777?checkedby:hlscat.com
+ext,X Premium 3 HD,http://titanlivetv.com:8080/AdagioRestream12a/7AgZxDId5S/36778?checkedby:hlscat.com
+ext,X Triler,http://titanlivetv.com:8080/AdagioRestream12a/7AgZxDId5S/36786?checkedby:hlscat.com
+ext,FilmBox Extra HD AL,http://nordicone.is:2095/yeroo_2/wlEi_5YX81g/9254?checkedby:hlscat.com
+ABCNews.al,ABC News,http://alontv.info:8000/live/ontvtest/172722/119.ts?checkedby:hlscat.com
+News24.al,News 24,http://alontv.info:8000/live/ontvtest/172722/118.ts?checkedby:hlscat.com
+OraNews.al,Ora News,http://alontv.info:8000/live/ontvtest/172722/510.ts?checkedby:hlscat.com
+MyMusic.al,My Music,http://alontv.info:8000/live/ontvtest/172722/65.ts?checkedby:hlscat.com
+group,Sport
+Eurosport1.uk,Eurosport 1,http://ankastream.com:8080/NIKON-TELE/dG8OU56amncP/1446?checkedby:hlscat.com
+Eurosport2.uk,Eurosport 2,http://ankastream.com:8080/NIKON-TELE/dG8OU56amncP/1447?checkedby:hlscat.com
+ext,K Sport 1,http://cobra2016.dyndns.tv:1947/enjoyimcob_SkYpE/8LftLI6H71/1491?checkedby:hlscat.com
+ext,K Sport 2,http://cobra2016.dyndns.tv:1947/enjoyimcob_SkYpE/8LftLI6H71/1492?checkedby:hlscat.com
+ext,K Sport 3,http://cobra2016.dyndns.tv:1947/enjoyimcob_SkYpE/8LftLI6H71/1493?checkedby:hlscat.com
+ext,K Sport 4,http://cobra2016.dyndns.tv:1947/enjoyimcob_SkYpE/8LftLI6H71/1494?checkedby:hlscat.com
+ext,KSPORT 4,http://ankastream.com:8080/NIKON-TELE/dG8OU56amncP/1445?checkedby:hlscat.com
+ext,KUJTESA SPORT 2,http://mags.vip:2086/live/miriam/miriam123/93157.ts?checkedby:hlscat.com
+ext,KUJTESA SPORT 2 HD,http://starshare.live:8080/live/0987654321/1234567890/1136.ts?checkedby:hlscat.com
+ext,RTSH SPORT,http://mags.vip:2086/live/miriam/miriam123/93182.ts?checkedby:hlscat.com
+ext,RTSH Sport FHD,http://starshare.live:8080/live/0987654321/1234567890/1184.ts?checkedby:hlscat.com
+SuperSport1.al,Super Sport 1,http://ankastream.com:8080/NIKON-TELE/dG8OU56amncP/1427?checkedby:hlscat.com
+SuperSport2.al,SUPER SPORT 2,http://mags.vip:2086/live/miriam/miriam123/93107.ts?checkedby:hlscat.com
+ext,Super Sport 2 HD,http://ankastream.com:8080/NIKON-TELE/dG8OU56amncP/1428?checkedby:hlscat.com
+SuperSport3.al,Super Sport 3,http://ankastream.com:8080/NIKON-TELE/dG8OU56amncP/1431?checkedby:hlscat.com
+ext,Super Sport 4 HD,http://ankastream.com:8080/NIKON-TELE/dG8OU56amncP/1432?checkedby:hlscat.com
+ext,Super Sport News HD,http://ankastream.com:8080/NIKON-TELE/dG8OU56amncP/6162?checkedby:hlscat.com
+ext,super Sport 5 HD,http://cobra2016.dyndns.tv:1947/enjoyimcob_SkYpE/8LftLI6H71/37?checkedby:hlscat.com
+TS1HD.al,Tring Sport 1,http://ankastream.com:8080/NIKON-TELE/dG8OU56amncP/1439?checkedby:hlscat.com
+TS2HD.al,Tring Sport 2 HD,http://cobra2016.dyndns.tv:1947/enjoyimcob_SkYpE/8LftLI6H71/31?checkedby:hlscat.com
+TS3HD.al,Tring Sport 3,http://ankastream.com:8080/NIKON-TELE/dG8OU56amncP/1441?checkedby:hlscat.com
+TringSportNewsHD.al,Tring Sport News HD,http://cobra2016.dyndns.tv:1947/enjoyimcob_SkYpE/8LftLI6H71/29?checkedby:hlscat.com
 
-#EXTINF:0 tvg-id="TS1HD.al" group-title="Sport",TRING SPORT 1 HD
-http://rv.therevenge.co:80/565656/565656/81929?checkedby:hlscat.com
-#EXTINF:0 tvg-id="TS2HD.al" group-title="Sport",TRING SPORT 2 HD
-http://rv.therevenge.co:80/565656/565656/81928?checkedby:hlscat.com
-#EXTINF:0 tvg-id="ext" group-title="Sport",TRING SPORT 3 HD (ONLY MATCH TIME)
-http://rv.therevenge.co:80/565656/565656/81927?checkedby:hlscat.com
-#EXTINF:0 tvg-id="ext" group-title="Sport",TRING SPORT 4 HD (ONLY MATCH TIME)
-http://rv.therevenge.co:80/live/242424/242424/81926.m3u8?checkedby:hlscat.com
-#EXTINF:0 tvg-id="SuperSportNews.al" group-title="Sport",TRING SPORT NEWS
-http://rv.therevenge.co:80/565656/565656/81931?checkedby:hlscat.com
-#EXTINF:0 tvg-id="ext" group-title="Sport",RTSH SPORT HD
-http://rv.therevenge.co:80/565656/565656/82163?checkedby:hlscat.com
-#EXTINF:0 tvg-id="ext" group-title="Sport",SUPER SPORT 1 4K
-http://185.71.64.167:80/307245103371/307245103371/81945?checkedby:hlscat.com
-#EXTINF:0 tvg-id="SuperSportNews.al" group-title="Sport",SUPER SPORT 1 HD
-http://rv.therevenge.co:80/565656/565656/81946?checkedby:hlscat.com
-#EXTINF:0 tvg-id="ext" group-title="Sport",SUPER SPORT 2 4K
-http://rv.therevenge.co:80/live/242424/242424/81943.m3u8?checkedby:hlscat.com
-#EXTINF:0 tvg-id="ext" group-title="Sport",SUPER SPORT 2 HD
-http://185.71.64.167:80/AO0RKgAr3S/XEJ7yJaA2a/81944?checkedby:hlscat.com
-#EXTINF:0 tvg-id="ext" group-title="Sport",SUPER SPORT 3 4K
-http://185.71.64.167:80/AO0RKgAr3S/XEJ7yJaA2a/81941?checkedby:hlscat.com
-#EXTINF:0 tvg-id="ext" group-title="Sport",SUPER SPORT 3 HD
-http://185.71.64.167:80/AO0RKgAr3S/XEJ7yJaA2a/81942?checkedby:hlscat.com
-#EXTINF:0 tvg-id="ext" group-title="Sport",SUPER SPORT 4 4K (ONLY MATCH TIME)
-http://rv.therevenge.co:80/565656/565656/81939?checkedby:hlscat.com
-#EXTINF:0 tvg-id="ext" group-title="Sport",SUPER SPORT 4 HD
-http://rv.therevenge.co:80/565656/565656/81940?checkedby:hlscat.com
-#EXTINF:0 tvg-id="ext" group-title="Sport",SUPER SPORT 5 4K
-http://185.71.64.167:80/AO0RKgAr3S/XEJ7yJaA2a/81937?checkedby:hlscat.com
-#EXTINF:0 tvg-id="ext" group-title="Sport",SUPER SPORT 5 HD
-http://rv.therevenge.co:80/565656/565656/81938?checkedby:hlscat.com
-#EXTINF:0 tvg-id="ext" group-title="Sport",SUPER SPORT 6 4K
-http://rv.therevenge.co:80/565656/565656/81935?checkedby:hlscat.com
+
+
